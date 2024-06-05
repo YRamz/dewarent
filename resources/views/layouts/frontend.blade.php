@@ -28,7 +28,7 @@
     <!-- Navigation-->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <div class="container px-4 px-lg-5">
-        <a class="navbar-brand" href="{{ route('homepage') }}">Start Bootstrap</a>
+        <a class="navbar-brand" href="{{ route('homepage') }}">Dewa Rental Bali</a>
         <button
           class="navbar-toggler"
           type="button"
@@ -40,6 +40,7 @@
         >
           <span class="navbar-toggler-icon"></span>
         </button>
+        
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav ms-auto">
             <li class="nav-item">
